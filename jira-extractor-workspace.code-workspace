@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "terminal.integrated.env.osx": {
+            "PYTHONPATH": "${workspaceFolder}/src",
+        },
+        "python.pythonPath": "/usr/local/opt/python@3.9/bin/python3.9",
+        "python.dataScience.jupyterServerURI": "local"
+    }
+}
